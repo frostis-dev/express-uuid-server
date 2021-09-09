@@ -1,0 +1,1 @@
+Just a small and simple app to test my backend skills on JavaScript.
